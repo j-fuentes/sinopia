@@ -42,7 +42,7 @@ dependencies:
   JSONStream: '1.x'
 
   mkdirp: '>=0.3.5 <1.0.0-0'
-  sinopia-htpasswd: '>= 0.4.3'
+  sinopia-htpasswd: 'git://github.com/j-fuentes/sinopia-htpasswd.git#v0.4.5_custom'
   http-errors: '>=1.2.0'
 
   # node 0.10 compatibility, should go away soon
